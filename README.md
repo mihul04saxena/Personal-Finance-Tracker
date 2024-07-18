@@ -47,11 +47,8 @@ python main.py
 
 ## Author
 
-This program was developed by [Your Name] for educational purposes.
+This program was developed by [Mihul Saxena] for educational purposes.
 
-## License
-
-This program is licensed under the [Your License]. Please see the LICENSE file for more information.
 
 ## Contributions
 
@@ -59,8 +56,5 @@ Contributions are welcome If you find any issues or have suggestions for improve
 
 ## Contact
 
-For any questions or feedback, please contact [Your Email].
+For any questions or feedback, please contact [mihulankur@gmail.com].
 
-## Credits
-
-This program was inspired by [Your Inspiration]. Special thanks to [Your Inspiration] for their guidance and support.
