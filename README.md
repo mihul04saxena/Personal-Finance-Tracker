@@ -47,7 +47,7 @@ python main.py
 
 ## Author
 
-This program was developed by [Mihul Saxena] for educational purposes.
+This program was developed by Mihul Saxena for educational purposes.
 
 
 ## Contributions
@@ -56,5 +56,5 @@ Contributions are welcome If you find any issues or have suggestions for improve
 
 ## Contact
 
-For any questions or feedback, please contact [mihulankur@gmail.com].
+For any questions or feedback, please contact mihulankur@gmail.com.
 
